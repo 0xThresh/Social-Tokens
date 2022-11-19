@@ -16,4 +16,6 @@ A handful of use cases are defined in the EIP, and re-posted below:
 - Ratings for contenders in sports or other competitive leagues.
 - Credit scores (Ugh that feels dystopian, but at least it’d be more transparent and trustworthy than current credit scoring systems around the world…)
 - Kudos given for contributions of some sort, i.e. for volunteer hours at a nonprofit
+
+## Explored Use Cases
 The main use case I have explored is the use of these tokens for loyalty points for an artist to reward their community for purchases. This could be purchases of their physical art from the artist's storefront, or for purchasing NFTs from their PFP collection. The tokens could then be exchanged for prizes, such as a free piece of art or free shipping on a physical piece of art. I have also explored the idea of community credit scores, where members of a community who rely on each other for collaboration are able to transfer tokens as a sign of a job well done from their collaborators. 
